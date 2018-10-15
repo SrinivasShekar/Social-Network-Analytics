@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>08/10/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Claypole " label="Claypole " />
+      <node id="Noah " label="Noah " />
+      <node id="Rose " label="Rose " />
+      <node id="Maylie " label="Maylie " />
+      <node id="Losberne " label="Losberne " />
+      <node id="Harry " label="Harry " />
+      <node id="Oliver " label="Oliver " />
+      <node id="Miss " label="Miss " />
+      <node id="Charlotte " label="Charlotte " />
+      <node id="Brittles " label="Brittles " />
+      <node id="Giles " label="Giles " />
+      <node id="Clerkinwell " label="Clerkinwell " />
+      <node id="Sessions " label="Sessions " />
+      <node id="Charles " label="Charles " />
+      <node id="Master " label="Master " />
+      <node id="Artful " label="Artful " />
+      <node id="Bates " label="Bates " />
+      <node id="Nancy " label="Nancy " />
+      <node id="Fagin " label="Fagin " />
+      <node id="Dodger " label="Dodger " />
+      <node id="Sikes " label="Sikes " />
+      <node id="Bolter " label="Bolter " />
+      <node id="Toby " label="Toby " />
+      <node id="Crackit " label="Crackit " />
+      <node id="Bedwin " label="Bedwin " />
+      <node id="Jack " label="Jack " />
+      <node id="Bill " label="Bill " />
+      <node id="Hill " label="Hill " />
+      <node id="Saffron " label="Saffron " />
+      <node id="Charley " label="Charley " />
+      <node id="Sowerberry " label="Sowerberry " />
+      <node id="Jew " label="Jew " />
+      <node id="Grimwig " label="Grimwig " />
+    </nodes>
+    <edges>
+      <edge id="0" source="Claypole " target="Noah " />
+      <edge id="1" source="Noah " target="Charlotte " />
+      <edge id="2" source="Noah " target="Oliver " />
+      <edge id="3" source="Rose " target="Maylie " />
+      <edge id="4" source="Rose " target="Losberne " />
+      <edge id="5" source="Rose " target="Harry " />
+      <edge id="6" source="Rose " target="Oliver " />
+      <edge id="7" source="Maylie " target="Miss " />
+      <edge id="8" source="Maylie " target="Harry " />
+      <edge id="9" source="Maylie " target="Oliver " />
+      <edge id="10" source="Losberne " target="Oliver " />
+      <edge id="11" source="Harry " target="Oliver " />
+      <edge id="12" source="Oliver " target="Charlotte " />
+      <edge id="13" source="Oliver " target="Fagin " />
+      <edge id="14" source="Oliver " target="Toby " />
+      <edge id="15" source="Oliver " target="Crackit " />
+      <edge id="16" source="Oliver " target="Bedwin " />
+      <edge id="17" source="Oliver " target="Jack " />
+      <edge id="18" source="Oliver " target="Master " />
+      <edge id="19" source="Oliver " target="Dodger " />
+      <edge id="20" source="Oliver " target="Giles " />
+      <edge id="21" source="Oliver " target="Sowerberry " />
+      <edge id="22" source="Oliver " target="Bates " />
+      <edge id="23" source="Oliver " target="Sikes " />
+      <edge id="24" source="Oliver " target="Jew " />
+      <edge id="25" source="Oliver " target="Grimwig " />
+      <edge id="26" source="Miss " target="Nancy " />
+      <edge id="27" source="Brittles " target="Giles " />
+      <edge id="28" source="Clerkinwell " target="Sessions " />
+      <edge id="29" source="Charles " target="Master " />
+      <edge id="30" source="Charles " target="Artful " />
+      <edge id="31" source="Charles " target="Bates " />
+      <edge id="32" source="Master " target="Fagin " />
+      <edge id="33" source="Master " target="Dodger " />
+      <edge id="34" source="Master " target="Artful " />
+      <edge id="35" source="Master " target="Bates " />
+      <edge id="36" source="Artful " target="Bates " />
+      <edge id="37" source="Bates " target="Fagin " />
+      <edge id="38" source="Bates " target="Dodger " />
+      <edge id="39" source="Bates " target="Charley " />
+      <edge id="40" source="Fagin " target="Dodger " />
+      <edge id="41" source="Fagin " target="Sikes " />
+      <edge id="42" source="Fagin " target="Bolter " />
+      <edge id="43" source="Dodger " target="Charley " />
+      <edge id="44" source="Sikes " target="Toby " />
+      <edge id="45" source="Sikes " target="Bill " />
+      <edge id="46" source="Sikes " target="Jew " />
+      <edge id="47" source="Toby " target="Crackit " />
+      <edge id="48" source="Hill " target="Saffron " />
+    </edges>
+  </graph>
+</gexf>
